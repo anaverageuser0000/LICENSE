@@ -7,6 +7,7 @@ Everyone (E) is permitted to copy this, but can not redistribute as there own.
 # 2 Restrictions
 (No modifications!) - Do not modify this script.
 (No redistributing) - You can not re-distribute as if you own this. Just share the ORIGINAL link.
+
 (No claiming as if it is your own) - You can not claim the script as if you own it.
 
 # 3 No warranty
