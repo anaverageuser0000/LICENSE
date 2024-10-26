@@ -2,7 +2,7 @@ NO COPYRIGHT LICENSE
 Version 1, August 21 2024
 # 1 License Grant
 Copyright (C) 2024 <Alexanderethan833@gmail.com>
-Everyone (E) is permitted to copy this, but can not redistribute as there own.
+Everyone (E) is permitted to copy this, but can not redistribute as their own.
 
 # 2 Restrictions
 (No modifications!) - Do not modify this script.
